@@ -1,3 +1,4 @@
 feate ilk commit hocam s
 
 featde ikinci commit bu 
+ikinci satır hocam
